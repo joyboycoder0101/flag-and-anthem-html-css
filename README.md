@@ -6,7 +6,6 @@ A simple HTML and CSS project displaying the Ghana national flag using CSS posit
 - **HTML5**
 - **CSS3**
 - **Positioning (relative, absolute)**
-- **Flexbox (optional depending on layout)**
 
 ## 📚 What I Learned
 
